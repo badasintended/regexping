@@ -1,0 +1,7 @@
+{
+  "name": "Regex Ping",
+  "version": "0.0.1",
+  "description": "Send a notification when a message matches a regex",
+  "author": "deirn#0100",
+  "license": "WTFPL"
+}
